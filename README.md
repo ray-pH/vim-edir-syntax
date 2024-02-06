@@ -1,3 +1,14 @@
+# ARCHIVED
+
+> [!WARNING]
+> This repo is not maintained anymore.
+> For the latest and improved edir syntax files, we recommend checking out [denilsonsa/vim-edir-syntax](denilsonsa/vim-edir-syntax). 
+
+
+----
+<br><br><br><br>
+----
+
 # edir Color Highlighting for Vim
 
 [edir](https://github.com/bulletmark/edir) color highlighting for vim to easily recognize directory and file extensions
