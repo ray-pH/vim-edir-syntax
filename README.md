@@ -2,7 +2,7 @@
 
 > [!WARNING]
 > This repo is not maintained anymore.
-> For the latest and improved edir syntax files, we recommend checking out [denilsonsa/vim-edir-syntax](denilsonsa/vim-edir-syntax). 
+> For the latest and improved edir syntax files, we recommend checking out [denilsonsa/vim-edir-syntax](https://github.com/denilsonsa/vim-edir-syntax). 
 
 
 ----
